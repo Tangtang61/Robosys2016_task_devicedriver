@@ -21,7 +21,7 @@
 
 #include<linux/module.h>
 #include<linux/fs.h>
-#include<linux/cdev.h>:
+#include<linux/cdev.h>
 #include<linux/device.h>
 #include<asm/uaccess.h>
 #include<linux/io.h>
@@ -357,3 +357,10 @@ static void __exit cleanup_mod(void) {
 
 module_init(init_mod);
 module_exit(cleanup_mod);
+
+
+
+
+
+
+
