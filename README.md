@@ -1,6 +1,5 @@
 #Robosys2016_task_devicedriver
 The sinple device driver for Raspberry Pi 3 (Rapbian)
------------------------------------------------------
 
 ##Descriptoin
 This is the repository for the lecture RobotSystemEngineering’s task#1 in CIT.  
