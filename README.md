@@ -10,9 +10,6 @@ If you use this driver, you can turn a LED on by pushing switch.
 ###Go here → [Tiryouh's repository](https://github.com/Tiryoh/robosys2016.git)
 ####*In this driver, Swtich's pin GPIO20 is used with pull down*
 
-##Using movie
-###Youtube
-
 ##Reference
 ###・[Tiryouh's repository](https://github.com/Tiryoh/robosys2016.git) 
 ####(last reading: 2017/01/07)
