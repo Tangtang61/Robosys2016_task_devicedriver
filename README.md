@@ -16,7 +16,7 @@ Tha device driver is included here.
 
 ##Usage
 Go here → [Tiryouh's repository](https://github.com/Tiryoh/robosys2016.git)
-*I made swtich's pin GPIO20 pull down*
+###*I made swtich's pin GPIO20 pull down*
 
 ##License
 This repository is licensed under the GPLv3 license, see LICENSE.
