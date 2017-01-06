@@ -1,5 +1,5 @@
 #Robosys2016_task_devicedriver
-##The sinple device driver for Raspberry Pi 3 (Rapbian)
+The sinple device driver for Raspberry Pi 3 (Rapbian)
 =============================
 
 ##Descriptoin
@@ -13,11 +13,11 @@ If you use this driver, you can turn a LED on by pushing switch.
 
 ##Reference
 ###・[Tiryouh's repository](https://github.com/Tiryoh/robosys2016.git) 
-####last reading: 2017/01/07
+####(last reading: 2017/01/07)
 ###・[ryuichiueda's repository](https://github.com/ryuichiueda/robosys_device_drivers.git)
-####last reading: 2017/01/07
+####(last reading: 2017/01/07)
 ###・[GitHub Gist](https://gist.github.com/wate/7072365)
-####last reading: 2017/01/07
+####(last reading: 2017/01/07)
 
 ##License
 This repository is licensed under the GPLv3 license, see LICENSE.
