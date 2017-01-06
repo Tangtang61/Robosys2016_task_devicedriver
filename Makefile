@@ -7,5 +7,6 @@ clean:
 install:
 	sudo insmod myled.ko
 	sudo chmod 666 /dev/myled0
-ninstall:
+	sudo chmod 666 /dev/myswitch0
+uninstall:
 	sudo rmmod myled
