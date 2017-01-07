@@ -15,6 +15,8 @@ Switch → GPIO20
 ####(last reading: 2017/01/07)
 ###・[ryuichiueda's repository](https://github.com/ryuichiueda/robosys_device_drivers.git)
 ####(last reading: 2017/01/07)
+###・[Shota Hirama's repository](https://github.com/shotahirama/PWMServoDevice.git) 
+####(last reading: 2017/01/07)
 ###・[GitHub Gist](https://gist.github.com/wate/7072365)
 ####(last reading: 2017/01/07)
 
