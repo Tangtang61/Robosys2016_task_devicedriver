@@ -8,7 +8,7 @@ If you use this driver, you can turn a LED on by pushing switch.
 Control Raspberry Pi 3 from note PC using SSH by wireless LAN.  
 LED    → GPIO25  
 Switch → GPIO20  
-(*In my driver, Swtich's pin GPIO20 is used with pull down*)
+(*In this driver, Swtich's pin GPIO20 is used with pull down*)
 
 ##Reference
 ###・[Tiryouh's repository](https://github.com/Tiryoh/robosys2016.git) 
