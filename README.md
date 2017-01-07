@@ -6,8 +6,8 @@ This is the repository for the lecture RobotSystemEngineering’s task#1 in CIT.
 Tha device driver is included here.  
 If you use this driver, you can turn a LED on by pushing switch.  
 Control Raspberry Pi 3 from note PC using SSH by wireless LAN.  
-LED    → GPIO25  　
-Switch → GPIO20  
+LED    → GPIO25  
+Switch → GPIO20  
 *In my driver, Swtich's pin GPIO20 is used with pull down*  
 
 ##Usage
